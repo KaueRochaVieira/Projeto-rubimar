@@ -858,6 +858,11 @@ footer .social-links {
     width: 40.4rem;
   }
 
+  iframe {
+    width: 500px;
+    height: 310px;
+  }
+
   /*=== FOOTER =================================*/
   footer {
     padding-block: 8rem;
