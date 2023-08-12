@@ -428,6 +428,16 @@ body.menu-expanded button path {
   font-size: 19px;
 }
 
+.carrossel {
+  border: 1px solid red;
+  padding: 0.7rem;
+}
+
+#services img {
+  width: 6rem;
+  gap: 2rem;
+}
+
 /*=== BENEFICIOS =================================*/
 #beneficios {
   text-align: left;
