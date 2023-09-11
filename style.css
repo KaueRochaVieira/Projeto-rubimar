@@ -362,7 +362,7 @@ body.menu-expanded button path {
 }
 
 #home img {
-  width: 23rem;
+  width: 28rem;
   margin-inline: auto;
   margin-bottom: -0.6rem;
 }
@@ -793,8 +793,8 @@ footer .social-links {
   }
 
   #home img {
-    width: 30rem;
-    padding-top: 4rem;
+    width: 42rem;
+    padding-top: 17rem;
   }
 
   /*=== SERVICES =================================*/
